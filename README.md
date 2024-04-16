@@ -13,8 +13,4 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,mysql" /><br>
 </div>
 
-<br/>
-<hr/>
-
-<hr/>
- 
+<br/> 
