@@ -10,7 +10,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vue,jquery,nuxt,bootstrap,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,mysql,api" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,mysql,php" /><br>
 </div>
 
 <br/> 
