@@ -9,7 +9,7 @@
 <h2 align="center">🐱‍👤 Languages-Frameworks-Tools 🐱‍👤</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vue,jquery,nuxt,bootstrap,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=vue,jquery,nuxt,html,css,vscode,github,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,mysql,php" /><br>
 </div>
 
