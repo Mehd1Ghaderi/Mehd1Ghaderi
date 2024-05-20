@@ -15,6 +15,6 @@
 
  
 
-<h2 align="center">  <a href="https://www.coffeebede.com/ghael"><img class="img-fluid" width="80" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a></h2>
+<h2 align="center">  <a href="https://www.coffeebede.com/ghael"><img class="img-fluid" width="150" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a></h2>
 
 <br/> 
